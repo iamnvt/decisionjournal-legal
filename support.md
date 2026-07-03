@@ -31,4 +31,4 @@ You can remove Decision Journal data from your Apple Account’s iCloud storage 
 
 ## Contact
 
-For help, contact {{decisionjournal.support@gmail.com}} and include your iOS version, app version, and a short description of the issue. Do not include private journal content unless you intentionally choose to share it.
+For help, contact [decisionjournal.support@gmail.com](mailto:decisionjournal.support@gmail.com) and include your iOS version, app version, and a short description of the issue. Do not include private journal content unless you intentionally choose to share it.

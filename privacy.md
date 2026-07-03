@@ -35,4 +35,4 @@ This policy may change when the app’s features or data practices change. The e
 
 ## Contact
 
-Questions about this policy can be sent to {{decisionjournal.support@gmail.com}}.
+Questions about this policy can be sent to [decisionjournal.support@gmail.com](mailto:decisionjournal.support@gmail.com).
