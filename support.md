@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decision Journal: Clarity Support
+title: "Decision Journal: Clarity Support"
 ---
 
 # Decision Journal: Clarity Support

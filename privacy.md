@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decision Journal: Clarity Privacy Policy
+title: "Decision Journal: Clarity Privacy Policy"
 ---
 
 # Decision Journal Privacy Policy
